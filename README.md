@@ -51,14 +51,14 @@ document.body.innerHTML = '<h1>innerHTML is fun</h1><p>I like changing innerHTML
 
 There are also methods for creating, adding, and removing nodes.
 
-- ```[document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)```
+- [```document.createElement```](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 
-- ```[document.createTextNode](https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode)```
+- [```document.createTextNode```](https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode)
 
-- ```[appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)```
+- [```appendChild```](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 
-- ```[insertBefore](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)```
+- [```insertBefore```](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)
 
-- ```[removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)```
+- [```removeChild```](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
 
-- ```[replaceChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/replaceChild)```
+- [```replaceChild```](https://developer.mozilla.org/en-US/docs/Web/API/Node/replaceChild)
